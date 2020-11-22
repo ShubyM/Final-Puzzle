@@ -11,7 +11,11 @@ Here are the conditions:
 
 * You all have hats on, these hats can either be black or white. 
 
-* The aliens will then ask each person from left to right what color their hat is. You’re given 15 minutes to meet before this happens to dicuss amongst yourselves how you are going to outwit the aliens. Any silly means of communication like cough twice to indicate the x's hat color is black, will be caught by the aliens and you will lose. (AKA don't come up with a cheese solution)
+* There is no guarantee on the number of black or white. Just that the sum of black hats + white hats must be 10.
+
+* Because you are facing forward and sorted by height you can only see that hat colors of people shorter than you. However, you will hear other's guesses as the aliens move from left to right
+
+* The aliens will then ask each person from left to right what color their hat is. You’re given 15 minutes to meet before this happens to dicuss amongst yourselves how you are going to outwit the aliens. Any silly means of communication like cough twice to indicate the x's hat color is black, will be caught by the aliens and you will lose. (AKA don't come up with a cheese solution), you can only say the color black or white to indicate your guess for your hat color.
 
 * One person is allowed to mess up one time, if more than one mess up occurs, all of you die.
 
