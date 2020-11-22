@@ -7,6 +7,7 @@ Hypothetically lets say that our tallest person said black. That means he saw an
 
 This keeps going all the way down until the last person, if he is keeping track of who says white and who says black then by the end he can easily make the deduction about his own hat color.
 
+Also remember that the group is allowed to make one error so even if the first person does not say the right color, it is okay. 
 If my explanation is still confusing, feel free to look at the one made by Ted-Ed (https://youtu.be/N5vJSNXPEwA)
 
 

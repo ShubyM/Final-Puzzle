@@ -11,7 +11,7 @@ Here are the conditions:
 
 * You all have hats on, these hats can either be black or white. 
 
-* The aliens will then ask each person from left to right what color their hat is. You’re given 15 minutes to meet before this happens.
+* The aliens will then ask each person from left to right what color their hat is. You’re given 15 minutes to meet before this happens to dicuss amongst yourselves how you are going to outwit the aliens. Any silly means of communication like cough twice to indicate the x's hat color is black, will be caught by the aliens and you will lose. (AKA don't come up with a cheese solution)
 
 * One person is allowed to mess up one time, if more than one mess up occurs, all of you die.
 
